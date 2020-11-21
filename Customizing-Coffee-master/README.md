@@ -37,4 +37,6 @@
 
 <h3>프로그램 종료</h3>
 <p>프로그램 종료</p>
+</br>
+<p>2020.11.21. change github account: wndwls1024@naver.com -> 32181854@dankook.ac.kr </p>
 
